@@ -1,1 +1,3 @@
-# slackbuds.github.io
+# SlackBuds
+
+https://slackbuds.github.io
